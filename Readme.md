@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤟, I'm Rishabh Jain</h1>
 <h3 align="left">A Big Data and DevOps enthusiast</h3>
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="400px" height="300px"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh-jain-iit" alt="rishabh-jain-iit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RSP22SCM30J" alt="RSP22SCM30J" /> </p>
 
 <li align="left"> 🔭 I’m currently exploring Cyber Security field</a></li>
 
